@@ -3,7 +3,7 @@
 Este projeto tem objetivo de mostrar minhas habilidades na análise de dados usando SQL para descobrir importantes insights de recursos humanoS, verificando atraves de métricas cruciais de RH, como rotatividade de funcionários, diversidade, eficácia de recrutamento e avaliações de desempenho. Isso ajuda os profissionais de RH a tomar decisões informadas e planejar estrategicamente a força de trabalho.
 
 # DADOS
- Os dados de origem contem registros de Recursos Humanos 22.000 de 2000 a 2020.
+ Os dados de origem contem 22.000 registros de Recursos Humanos de 2000 a 2020 de uma empresa ficticia dos EUA.
 
  # QUESTÕES
   Questões:
